@@ -1,0 +1,48 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Reading List</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <h1>📚 My Reading List</h1>
+            <p>Your personal space to track your reading journey.</p>
+        </header>
+
+        <section class="book-form">
+            <input type="text" id="bookTitle" placeholder="Enter book title">
+            <input type="text" id="bookAuthor" placeholder="Enter author name">
+            <button id="addBook">+ Add Book</button>
+        </section>
+
+        <section class="stats">
+            <div class="stat-card">
+                <h2 id="totalBooks">0</h2>
+                <p>Total Books</p>
+            </div>
+            <div class="stat-card">
+                <h2 id="completedBooks">0</h2>
+                <p>Completed</p>
+            </div>
+            <div class="stat-card">
+                <h2 id="pendingBooks">0</h2>
+                <p>To Read</p>
+            </div>
+        </section>
+
+        <h2 class="section-title">My Books</h2>
+        <div id="bookList">
+            <p class="empty-message">No books yet. Add your first book! ✨</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
+```
