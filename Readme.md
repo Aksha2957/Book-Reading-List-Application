@@ -23,6 +23,14 @@ A simple and interactive web application to manage your personal reading list.
 1. Download or clone this repository.
 2. Open `index.html` in your browser.
 3. Add books and manage your reading list.
+   
+## 🌐 Live Demo
+
+Try the application here: https://book-reading-list-application-virid.vercel.app
+
+## 👩‍💻 Author
+
+Created as a web development project using HTML, CSS, and JavaScript.
 
 ## 👩‍💻 Project Purpose
 
