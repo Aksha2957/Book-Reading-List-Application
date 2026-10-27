@@ -7,6 +7,8 @@
 * [x] Delete books functionality implemented.
 * [x] Total, completed, and pending book counts displayed.
 * [x] Books saved using Local Storage.
-* [ ] Test the application in the browser.
-* [ ] Upload the project to GitHub.
-* [ ] Deploy the application and add its live link to README.
+* [x] Application tested in browser.
+* [x] Project uploaded to GitHub.
+* [x] Application deployed on Vercel.
+* [x] Live link added to README.
+
